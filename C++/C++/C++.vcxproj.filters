@@ -33,6 +33,9 @@
     <ClCompile Include="1.5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1.6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.1.h">
@@ -48,6 +51,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="1.5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="1.6.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
