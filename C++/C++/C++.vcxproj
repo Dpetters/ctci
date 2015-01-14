@@ -85,6 +85,8 @@
     <ClCompile Include="1.5.cpp" />
     <ClCompile Include="1.6.cpp" />
     <ClCompile Include="1.7.cpp" />
+    <ClCompile Include="2.1.cpp" />
+    <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -95,6 +97,7 @@
     <ClInclude Include="1.5.h" />
     <ClInclude Include="1.6.h" />
     <ClInclude Include="1.7.h" />
+    <ClInclude Include="LinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
