@@ -32,6 +32,30 @@ void removeDuplicates_1(Node* head)
 	}
 }
 
+void removeDuplicates_2(Node* head)
+{
+	Node* current = head;
+	Node* runner;
+	while (current)
+	{
+		runner = current;
+		while (runner->next)
+		{
+			if (runner->next->data == current->data)
+			{
+				Node* tmp = runner->next;
+				runner->next = runner->next->next;
+				delete(tmp);
+			}
+			else
+			{
+				runner = runner->next;
+			}
+		}
+		current = current->next;
+	}
+}
+/*
 int main()
 {
 
@@ -50,7 +74,7 @@ int main()
 	myList->display();
 
 	// change to removeDuplicates_2 to run that implementation
-	removeDuplicates_1(myList->head);
+	removeDuplicates_2(myList->head);
 
 	std::cout << "The list with duplicated removed is: ";
 	myList->display();
@@ -60,3 +84,4 @@ int main()
 	cin >> s;
 	return 0;
 }
+*/

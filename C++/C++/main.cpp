@@ -6,8 +6,8 @@
 #include "1.6.h"
 #include "1.7.h"
 #include "2.1.h"
-/*
+#include "2.2.h"
+
 int main() {
-	return Question_2_1().run();
+	return Question_2_2().run();
 }
-*/
