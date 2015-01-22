@@ -101,7 +101,13 @@
     <ClInclude Include="1.7.h" />
     <ClInclude Include="2.2.h" />
     <ClInclude Include="2.3.h" />
+    <ClInclude Include="2.4.h" />
     <ClInclude Include="LinkedList.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2.4.cpp">
+      <FileType>Document</FileType>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

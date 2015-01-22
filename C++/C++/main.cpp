@@ -8,7 +8,8 @@
 #include "2.1.h"
 #include "2.2.h"
 #include "2.3.h"
+#include "2.4.h"
 
 int main() {
-	return Question_2_3().run();
+	return Question_2_4().run();
 }
