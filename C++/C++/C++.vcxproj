@@ -88,6 +88,7 @@
     <ClCompile Include="2.1.cpp" />
     <ClCompile Include="2.2.cpp" />
     <ClCompile Include="2.3.cpp" />
+    <ClCompile Include="2.5.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
@@ -102,6 +103,7 @@
     <ClInclude Include="2.2.h" />
     <ClInclude Include="2.3.h" />
     <ClInclude Include="2.4.h" />
+    <ClInclude Include="2.5.h" />
     <ClInclude Include="LinkedList.h" />
   </ItemGroup>
   <ItemGroup>
