@@ -10,7 +10,8 @@
 #include "2.3.h"
 #include "2.4.h"
 #include "2.5.h"
+#include "2.6.h"
 
 int main() {
-	return Question_2_5().run();
+	return Question_2_6().run();
 }

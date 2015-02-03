@@ -57,6 +57,9 @@
     <ClCompile Include="2.5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2.6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.1.h">
@@ -93,6 +96,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="2.5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2.6.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
