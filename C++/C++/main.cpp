@@ -12,7 +12,8 @@
 #include "2.5.h"
 #include "2.6.h"
 #include "3.4.h"
+#include "3.5.h"
 
 int main() {
-	return Question_3_4().run();
+	return Question_3_5().run();
 }
