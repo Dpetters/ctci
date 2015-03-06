@@ -93,9 +93,11 @@
     <ClCompile Include="3.4.cpp" />
     <ClCompile Include="3.5.cpp" />
     <ClCompile Include="3.6.cpp" />
+    <ClCompile Include="4.2.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="3.2.cpp" />
+    <ClCompile Include="TreeNode.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.1.h" />
@@ -113,6 +115,7 @@
     <ClInclude Include="3.4.h" />
     <ClInclude Include="3.5.h" />
     <ClInclude Include="3.6.h" />
+    <ClInclude Include="4.2.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="3.2.h" />
   </ItemGroup>
@@ -120,6 +123,9 @@
     <ClCompile Include="2.4.cpp">
       <FileType>Document</FileType>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="4.2.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
