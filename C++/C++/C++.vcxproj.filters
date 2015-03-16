@@ -81,6 +81,9 @@
     <ClCompile Include="TreeNode.h">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="4.5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.1.h">
@@ -138,6 +141,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="4.3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="4.5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
