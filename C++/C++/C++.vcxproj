@@ -96,6 +96,7 @@
     <ClCompile Include="4.2.cpp" />
     <ClCompile Include="4.3.cpp" />
     <ClCompile Include="4.5.cpp" />
+    <ClCompile Include="4.6.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="3.2.cpp" />
@@ -120,6 +121,7 @@
     <ClInclude Include="4.2.h" />
     <ClInclude Include="4.3.h" />
     <ClInclude Include="4.5.h" />
+    <ClInclude Include="4.6.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="3.2.h" />
   </ItemGroup>

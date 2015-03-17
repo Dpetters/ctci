@@ -4,7 +4,7 @@
 struct TreeNode
 {
 	int data;
-	TreeNode *left, *right;
+	TreeNode *left, *right, *parent;
 };
 
 #endif // __TreeNode_h__
