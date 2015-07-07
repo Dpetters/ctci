@@ -87,6 +87,9 @@
     <ClCompile Include="4.6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7.4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.1.h">
@@ -150,6 +153,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="4.6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="7.4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -18,8 +18,9 @@
 #include "4.3.h"
 #include "4.5.h"
 #include "4.6.h"
+#include "7.4.h"
 
 int main() 
 {
-	return Question_4_6().run();
+	return Question_7_4().run();
 }
